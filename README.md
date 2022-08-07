@@ -12,7 +12,7 @@ head><title>Cabin no 6</title></head>
 
 
 <img src="shub.jpg" height="400" width"300"/>
-<u><h1>2.Shubra Pakira</h1></u>
+<u><h1>2.Shubram Pakira</h1></u>
 <a href="https://www.facebook.com/shubram.pakira"/>Facebook account</a>
 <br>
 <img src="aniket.jpg" height="350" width"200"/>
