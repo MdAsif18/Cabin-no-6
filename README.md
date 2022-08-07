@@ -21,7 +21,7 @@ head><title>Cabin no 6</title></head>
 <br><img src="sarkar.jpg" height="450" width"300"/>
 <u><h1>4.Debojay Sarkar</h1></u>
 <br><a href="https://www.facebook.com/profile.php?id=100010153875188"/>Facebook account</a>
-<br><img src="souvik.jpg" height="350" width"200"/>
+<br><img src="raw.githubusercontent.com/MdAsif18/Cabin-no-6/main/souvik.jpg" height="350" width"200"/>
 <u><h1>5.Souvik Pal</h1></u>
 <br><a href="https://www.facebook.com/souvik.pal.16718979"/>Facebook account</a>
 <br><a href="https://www.google.com"/>Click here to open google</a>
